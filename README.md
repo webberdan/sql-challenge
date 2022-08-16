@@ -32,7 +32,7 @@ The following queries were performed in the `employeeQueries` file:
 8-List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
 ## Step Five- Bonus Using Pandas and Plotting For Addtional Analysis
-By using `SQLalchemy` the database was read into a Jupyter Notebook. From there the employees table, tiels table, and salaries table were imported into the session. After merging the data, two tables were created to further analyze the data to determine any trends: "Average Salary by Title", and "Common Salary Ranges for Employees". 
+By using `SQLalchemy` the database was read into a Jupyter Notebook. From there the employees table, titles table, and salaries table were imported into the session. After merging the data, two tables were created to further analyze the data to determine any trends: "Average Salary by Title", and "Common Salary Ranges for Employees". 
 
 ## Findings
 The most common salary range was $40,000-$50,000
